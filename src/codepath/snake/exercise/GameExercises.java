@@ -42,8 +42,7 @@ public class GameExercises extends FirstGamePanel {
 		}
 		
 		/*
-		canvas.setColor(green);
-	    canvas.fillRect(xSnakePos[0], ySnakePos[0], 20, snakeWidth);
+		hmm
 	    canvas.setColor(red);
 	    canvas.fillRect(xSnakePos[1], ySnakePos[0], 20, snakeWidth);
 	    canvas.setColor(pink);
